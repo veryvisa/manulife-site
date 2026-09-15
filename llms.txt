@@ -1,0 +1,172 @@
+# 张毛妈家庭财务说明书
+
+> 加拿大华人家庭的保险、理财与银行说明书。由持牌保险顾问张毛妈整理，用类比和例子讲清加拿大的银行、保险与投资产品；目前收录 Manulife 宏利，其他公司陆续加入。数字附官方来源与核验日期；内容为一般信息，不构成个人建议。
+
+构建日期：2026-09-15
+
+## 首页与入门
+
+- [张毛妈家庭财务说明书｜用类比看懂加拿大的保险、理财与银行](https://veryvisa.github.io/manulife-site/)：张毛妈家庭财务说明书：活期王像余额宝、GIC 像定期存款、重疾险像生病时的带薪病假。先用类比看懂，再按家庭情况挑产品。目前收录 Manulife 宏利。
+- [关于张毛妈](https://veryvisa.github.io/manulife-site/about/)：加拿大华人家庭的保险、理财与银行说明书：用类比和例子讲清加拿大的银行、保险与投资产品，目前收录 Manulife 宏利。
+- [新手入门：10 分钟看懂加拿大的理财与保险](https://veryvisa.github.io/manulife-site/start/)：把钱分成活钱、定期钱、保障钱、长钱四种；认识 TFSA、RRSP 等账户和 CDIC、Assuris 两张保护网；常见产品一句话看懂。
+
+## 公司
+
+- [已收录的公司](https://veryvisa.github.io/manulife-site/companies/)：加拿大华人家庭的保险、理财与银行说明书：用类比和例子讲清加拿大的银行、保险与投资产品，目前收录 Manulife 宏利。
+- [Manulife 宏利：公司介绍与产品一览](https://veryvisa.github.io/manulife-site/companies/manulife/)：加拿大本土成长起来的保险与金融集团，银行、保险、投资一家都有。宏利（Manulife）总部在多伦多，是加拿大历史最久的保险金融集团之一。在加拿大，它旗下有保险公司（寿险、重疾、健康牙科、旅行险）、宏利银行 Manulife Bank（活期王、GIC、房贷）和资产管理（基金、ETF、分离基金），一家就能把一个家庭的现金、
+
+## 按家庭情况找方案
+
+- [按家庭情况找方案](https://veryvisa.github.io/manulife-site/needs/)：加拿大华人家庭的保险、理财与银行说明书：用类比和例子讲清加拿大的银行、保险与投资产品，目前收录 Manulife 宏利。
+- [我是企业主：这笔钱属于公司还是家庭？](https://veryvisa.github.io/manulife-site/needs/business-owner/)：先分清所有权、付款人与受益人，再设计现金和保险。 可用产品：宏利企业 Advantage、宏利 Par 分红型终身寿险、宏利 Family Term 定期寿险
+- [手里有一笔现金：这笔钱何时要用？](https://veryvisa.github.io/manulife-site/needs/cash/)：先把随时要用和确定到期的钱分开。 可用产品：宏利活期王 Advantage Account、宏利银行定期存款 GIC、宏利保证利息账户 GIA
+- [身故以后钱去哪：谁收钱，谁交税，谁有现金？](https://veryvisa.github.io/manulife-site/needs/estate/)：把受益人、税务与遗产现金流画在同一张清单上。 可用产品：宏利退休储蓄现金账户、宏利退休收入现金账户、宏利 Par 分红型终身寿险、宏利 GIF Select 分离基金、宏利保证利息账户 GIA
+- [家里靠我的收入：我不在以后，家庭靠什么还贷生活？](https://veryvisa.github.io/manulife-site/needs/family-protection/)：先计算收入缺口，再选期限；长期传承另列预算。 可用产品：宏利 Family Term 定期寿险、宏利 Par 分红型终身寿险、宏利 UL 万能寿险
+- [生病不能工作：停工后先缺收入还是康复费用？](https://veryvisa.github.io/manulife-site/needs/illness-income/)：重疾现金与失能收入按不同风险分开预算。 可用产品：宏利 Lifecheque 重疾险、宏利意外失能收入保障 PADI、宏利 Synergy 组合保障
+- [开始投资：这笔钱能承受多久、多大波动？](https://veryvisa.github.io/manulife-site/needs/investing/)：先选账户与风险配置，再决定交易和管理方式。 可用产品：宏利交易所交易基金 ETF、宏利 All-in-One ETF、宏利共同基金、宏利 MPIP 投资池、宏利 GIF Select 分离基金
+- [买房与房贷：你更需要灵活调度还是固定节奏？](https://veryvisa.github.io/manulife-site/needs/mortgage/)：把净借款、还款纪律和提前还款成本放在一起比。 可用产品：宏利 Manulife One 房贷账户、宏利 Bank Select 房贷
+- [新移民与离开加拿大：你的税务居民身份是否正在改变？](https://veryvisa.github.io/manulife-site/needs/newcomer/)：先确认身份和机构服务资格，再调整账户与产品。 可用产品：宏利活期王 Advantage Account、宏利美元 Advantage、宏利免税储蓄现金账户、宏利共同基金
+- [没有公司福利：原福利刚结束，还是一直没有？](https://veryvisa.github.io/manulife-site/needs/no-benefits/)：先确认有无衔接窗口，再比较药物与牙科实际需要。 可用产品：宏利 FollowMe 健康牙科险、宏利 FollowMe Life、宏利 Flexcare 健康牙科险
+- [父母来加拿大：病史与起保时间已核清了吗？](https://veryvisa.github.io/manulife-site/needs/parents-visitors/)：先按真实病史核保，再安排起保日与紧急援助。 可用产品：宏利访加与超级签证保险
+- [退休以后怎么领钱：生活费要靠哪部分资产支付？](https://veryvisa.github.io/manulife-site/needs/retirement/)：近期现金、到期定存与长期年金各自分工。 可用产品：宏利退休收入现金账户、宏利退休年金、宏利银行定期存款 GIC、宏利保证利息账户 GIA
+
+## 产品库（按公司与类别）
+
+- [产品库：按公司、按用途找产品](https://veryvisa.github.io/manulife-site/products/)：目前收录 Manulife 宏利 38 项产品，每个产品先用类比讲清是什么，再说适合谁、代价是什么。
+- [宏利活期王 Advantage Account：加拿大版余额宝，无月费、有 SIN 就能在线开](https://veryvisa.github.io/manulife-site/products/manulife/bank/advantage-account/)：像把余额宝搬进加拿大的银行：钱放着天天计息，想花随时能花。宏利银行的活期账户，储蓄和支票二合一：每一块钱都计息，又能刷 Debit、付账单、发 e-Transfer，还能和你别家银行账户互相调钱。
+- [宏利 All-In Banking Package：已有客户查服务；新客户不再按此方案开户。](https://veryvisa.github.io/manulife-site/products/manulife/bank/all-in-banking/)：像一张已经停售的老套餐：老用户照常用，新用户办不了。宏利银行以前的日常银行套餐，现已停止向新客户销售。已持有的客户按原协议和银行通知继续使用。
+- [宏利银行定期存款 GIC：用确定的用钱日期，安排相应期限的定存。](https://veryvisa.github.io/manulife-site/products/manulife/bank/bank-gic/)：像国内银行的定期存款：约定存几年，利率先说好，到期连本带息拿回。宏利银行发行的定期存款（GIC）。存 1 到 5 年，利率在买入时定下；长期档大多不能提前取出，合资格存款受 CDIC 保护。
+- [宏利 Bank Select 房贷：用不同房贷分段安排期限与还款节奏。](https://veryvisa.github.io/manulife-site/products/manulife/bank/bank-select/)：像把一笔房贷切成几块蛋糕：每块可以选不同利率和期限。宏利银行的分段房贷，一笔房贷最多可分 5 段，每段各选固定或浮动利率、不同期限，续约时间也可以错开。
+- [宏利企业 Advantage：把企业备用现金与日常经营账户配合使用。](https://veryvisa.github.io/manulife-site/products/manulife/bank/business-advantage/)：像公司的余额宝：公司账上暂时不用的钱，放着也能计息。宏利银行的企业活期账户，无月费。公司主银行继续负责日常收付，闲置现金转到这里计息，要用时再调回去。
+- [宏利 Manulife One 房贷账户：让存入的收入先抵减欠款，按净欠款计息。](https://veryvisa.github.io/manulife-site/products/manulife/bank/manulife-one/)：像把工资卡和房贷绑在一起：工资一进来就先抵房贷，少付的是贷款利息。宏利银行的一体化房贷账户，把房贷、信用额度和日常银行放进同一个账户。存进来的钱每天抵减欠款，按抵减后的余额算利息。
+- [宏利退休储蓄现金账户：先选账户税务结构，再决定现金放多久。](https://veryvisa.github.io/manulife-site/products/manulife/bank/registered-advantage/)：像养老公积金里的活期部分：存进去先少交税，钱先以现金形式等着。放在 RRSP（注册退休储蓄计划）里的宏利活期账户。供款可以抵税，里面的利息暂时不交税，退休后取出时再按收入报税。
+- [宏利退休收入现金账户：先选账户税务结构，再决定现金放多久。](https://veryvisa.github.io/manulife-site/products/manulife/bank/retirement-income-advantage/)：像退休金的取款专户：每年按规定领钱，没领的部分继续计息。放在 RRIF（注册退休收入基金）里的宏利活期账户。RRSP 转成 RRIF 后每年要按最低比例取钱，这个账户让待领的钱以现金形式计息。
+- [宏利免税储蓄现金账户：先选账户税务结构，再决定现金放多久。](https://veryvisa.github.io/manulife-site/products/manulife/bank/tax-free-advantage/)：像一个免税的零钱包：钱包里赚的利息，取出来不用交税。放在 TFSA（免税储蓄账户）里的宏利活期账户。钱仍是活期现金，但利息在 TFSA 里免税，取出来也不用报税。
+- [宏利美元 Advantage：已有美元用途，就把美元现金单独管理。](https://veryvisa.github.io/manulife-site/products/manulife/bank/us-advantage/)：像一个专门放美元的零钱包：美元不用急着换成加元，放着也计息。宏利银行的美元版活期账户，用来存放美元现金，按美元计息，可在网上、手机和电话银行管理。
+- [宏利 Visa Infinite 信用卡：健康类消费较多，才值得细算这张卡。](https://veryvisa.github.io/manulife-site/products/manulife/bank/visa-infinite/)：像专门奖励健康消费的返现卡：看牙、买药、健身花得越多返得越多。宏利银行的高端 Visa 信用卡。健康医疗类消费返现最高，旅行餐饮其次，还带 65 岁以上也能用的旅行紧急医疗保险。
+- [宏利 Visa Platinum 信用卡：用消费结构判断入门奖励卡是否有用。](https://veryvisa.github.io/manulife-site/products/manulife/bank/visa-platinum/)：像一张没有年费的健康消费入门卡：不花年费，也能拿健康消费返现。宏利银行的无年费 Visa 信用卡，健康类消费返现较高，其他消费有基础返现，开卡初期还有余额转移优惠利率。
+- [宏利 Family Term 定期寿险：先把家庭依赖收入期间的身故保障买够。](https://veryvisa.github.io/manulife-site/products/manulife/insurance/family-term/)：像给家庭装的安全气囊：平时花小钱，万一顶梁柱倒下，家人拿到一大笔钱。宏利 Family Term 定期寿险在约定年限内提供身故保障，保费比终身寿险便宜很多，一家人可以放在同一张保单里，没有现金价值。
+- [宏利 Flexcare 健康牙科险：按实际药费与牙科需求补省医保缺口。](https://veryvisa.github.io/manulife-site/products/manulife/insurance/flexcare/)：像自己给自己买的公司福利：看牙、买药、配眼镜，省医保不管的它来报。宏利 Flexcare 个人健康牙科险，可以组合处方药、牙科、视力、理疗等保障，补上省医保和雇主福利以外的日常医疗开销。
+- [宏利 FollowMe 健康牙科险：失去公司福利时，抓住衔接个人计划的窗口。](https://veryvisa.github.io/manulife-site/products/manulife/insurance/followme-health/)：像把公司福利带走：离职后 90 天内接上个人计划，不用重新答健康问卷。宏利 FollowMe 健康牙科险专门接住离职、退休失去公司健康福利的人，在原福利结束后 90 天内申请并交首期保费，可免健康问卷承保。
+- [宏利 FollowMe Life：团体寿险结束时，及时确认个人保障衔接。](https://veryvisa.github.io/manulife-site/products/manulife/insurance/followme-life/)：像离职时给保险接个力：公司寿险结束了，个人保障马上续上。宏利 FollowMe Life 是为离职或退休、失去公司团体寿险的人设计的个人寿险，通常在团险结束后 60 天内申请，可免健康问卷。
+- [宏利 Lifecheque Basic：以较集中的疾病范围匹配有限保障预算。](https://veryvisa.github.io/manulife-site/products/manulife/insurance/lifecheque-basic/)：像重疾险的基础版套餐：只保最常见的几种大病，保费更省。宏利 Lifecheque Basic 集中保障癌症、心肌梗塞、中风、冠状动脉搭桥和主动脉手术五类常见重大疾病，保额较低、投保较简单。
+- [宏利 Lifecheque 重疾险：符合合同疾病定义后，用现金补康复期缺口。](https://veryvisa.github.io/manulife-site/products/manulife/insurance/lifecheque/)：像生病时的一笔带薪病假：确诊重病就一次拿到现金，想怎么用都行。宏利 Lifecheque 重疾险在确诊合同列明的重大疾病并满足条件后，一次性给付现金，覆盖 24 种重大疾病，另有早期疾病提前给付。
+- [宏利 Par 分红型终身寿险：为长期身故需要安排保障，分开看确定与浮动部分。](https://veryvisa.github.io/manulife-site/products/manulife/insurance/manulife-par/)：像一份会分红的终身保障：保障一辈子，保单里的钱还可能每年多长一点。宏利 Par 分红型终身寿险提供终身身故保障，保费、基础保额和部分现金价值写进合同，每年还可能有分红，但分红不保证。
+- [宏利意外失能收入保障 PADI：意外让你不能工作时，补上部分收入。](https://veryvisa.github.io/manulife-site/products/manulife/insurance/padi/)：像意外受伤时的替补工资：因意外不能上班，每月照样有钱进账。宏利个人意外失能险（PADI）在因意外造成完全或部分失能时按月给付收入，给付期可选 2 年、5 年或到 65 岁，也可以加疾病保障。
+- [宏利学生旅行保险：先核旅行身份、目的地与病史，再选保障。](https://veryvisa.github.io/manulife-site/products/manulife/insurance/student-travel/)：像留学生的海外医保：在外读书、访学期间，突发看病住院有人买单。宏利学生旅行保险为出国读书或访学的学生提供紧急医疗保障，突发疾病、意外受伤的看病住院费用可以理赔。
+- [宏利 Synergy 组合保障：把寿险、重疾与失能放在共享保障池里。](https://veryvisa.github.io/manulife-site/products/manulife/insurance/synergy/)：像一张三合一保障卡：寿险、重疾、失能共用一个保额池。宏利 Synergy 把寿险、重疾险和失能险放进同一张保单，三种保障共享一个 10 万到 50 万加元的保障池，用掉一部分，剩下的继续保。
+- [宏利加拿大居民旅行保险：先核旅行身份、目的地与病史，再选保障。](https://veryvisa.github.io/manulife-site/products/manulife/insurance/travel/)：像出门旅行带的医药箱：在省外、国外突发看病，账单由保险来付。宏利加拿大居民旅行保险保障出省或出国旅行期间的紧急医疗费用，也可以加选行程取消、行李等保障。
+- [宏利 UL 万能寿险：把保险成本与保单内投资分开设计。](https://veryvisa.github.io/manulife-site/products/manulife/insurance/universal-life/)：像一份可以自己调配方的终身保险：一部分付保险成本，一部分放在保单里投资。宏利 UL 万能寿险把保险成本和保单里的投资账户分开，交多少、怎么投资、身故给付怎么设计都比较灵活，适合需要精细规划的人。
+- [宏利访加与超级签证保险：先核旅行身份、目的地与病史，再选保障。](https://veryvisa.github.io/manulife-site/products/manulife/insurance/visitors/)：像给来加拿大的父母买的临时医保：探亲期间突发看病，不用自己付大账单。宏利访客保险为来加拿大探亲、旅游的访客提供紧急医疗保障，也可以用于申请超级签证所需的医疗保险证明。
+- [宏利 Vitality 健康奖励计划：先选适合的保障，再看健康互动能带来什么。](https://veryvisa.github.io/manulife-site/products/manulife/insurance/vitality/)：像微信运动步数能换奖励：你运动、体检攒积分，保险公司给你折扣和礼品。宏利 Vitality 是挂在部分寿险和健康牙科险上的健康奖励计划。记录运动、体检等健康行为攒积分，升级后换合作伙伴奖励，部分产品还能省保费。
+- [宏利 All-in-One ETF：用组合型 ETF 简化多类资产配置。](https://veryvisa.github.io/manulife-site/products/manulife/investments/all-in-one-etf/)：像一份配好的营养套餐：一只 ETF 里已经配好股票和债券，不用自己搭配。宏利一站式组合 ETF，按保守、平衡、增长三种风险水平，一只 ETF 里就装好了股票和债券，并由团队负责调整比例。
+- [宏利退休年金：用一部分资产换取按约定持续支付的收入。](https://veryvisa.github.io/manulife-site/products/manulife/investments/annuities/)：像自己给自己买一份退休工资：交一笔钱，换每月准时到账的收入。宏利年金是用一笔钱向保险公司换取定期收入，可以领到身故为止、夫妻一方身故后另一方继续领，或者领固定年数。
+- [宏利每日利息账户 DIA：保险合同内需要暂存现金时的停靠处。](https://veryvisa.github.io/manulife-site/products/manulife/investments/dia/)：像投资合同里的候车室：钱暂时停在这里按天计息，随时可以去下一站。每日利息账户（DIA）是宏利人寿分离基金合同里的现金选项，没有固定期限，按日计息，可随时转出且不收退保费用。
+- [宏利交易所交易基金 ETF：在交易所买组合，同时看策略与总费用。](https://veryvisa.github.io/manulife-site/products/manulife/investments/etfs/)：像超市里的组合装：一次买下一篮子股票或债券，在交易所像买股票一样买卖。宏利投资管理的交易所交易基金（ETF），在多伦多证券交易所挂牌，有策略型也有主动管理型，通过券商或投资账户买卖。
+- [宏利保证利息账户 GIA：在保险合同内，为一段确定期限安排利息。](https://veryvisa.github.io/manulife-site/products/manulife/investments/gia/)：像保险公司版的定期存款：利率锁定，还能直接指定受益人。保证利息账户（GIA）是宏利人寿分离基金合同里的定期选项，期限 1 个月到 10 年，利率买入时定下；和银行 GIC 名字像，但它是保险合同。
+- [宏利高息储蓄基金：在合资格分离基金合同内安排现金仓位。](https://veryvisa.github.io/manulife-site/products/manulife/investments/hisa-fund/)：像基金合同里的现金格子：不想承担涨跌时，先把钱挪到这一格。高息储蓄基金是只能放在合资格宏利分离基金合同里的现金型基金，资产通常存放在宏利银行，按日累积利息、按月分配。
+- [宏利旧保险公司 GIC：旧合同继续按约管理，不再当新产品推荐。](https://veryvisa.github.io/manulife-site/products/manulife/investments/legacy-insurance-gic/)：像一份已经停产的老款定存合同：老合同照旧有效，但不再卖新的。宏利旧版保险公司 GIC（Guaranteed Interest Contract），已于 2022 年 10 月停止接受新合同，老客户按原合同继续管理。
+- [宏利 MPIP 投资池：把家庭投资按目标组合，再核对合并计费。](https://veryvisa.github.io/manulife-site/products/manulife/investments/mpip-pools/)：像私人银行的家庭套餐：一家人的投资合在一起算，钱越多费率越低。宏利私人投资池（MPIP）是面向资产较多家庭的投资组合，共 14 个投资池，家庭账户合并计算资产，达到门槛可降低管理费。
+- [宏利 MPIP 分离投资池：投资池配上保险合同功能，先衡量是否值得。](https://veryvisa.github.io/manulife-site/products/manulife/investments/mpip-segregated/)：像带安全带的私人投资池：投资之外，多了到期和身故保证。MPIP 分离投资池是宏利私人投资池的保险合同版本，保留家庭合并计费，另有 75/75 或 75/100 的到期与身故保证，可以指定受益人。
+- [宏利共同基金：把目标、期限与波动承受力交给合适的基金组合。](https://veryvisa.github.io/manulife-site/products/manulife/investments/mutual-funds/)：像把钱交给专业厨师做菜：你选口味，基金经理负责买什么、卖什么。宏利共同基金由基金经理替你挑选和管理股票、债券等资产，有不同风险等级与费用系列，通常通过顾问购买。
+- [宏利 GIF Select 分离基金：为需要受益人安排的人比较保险合同功能。](https://veryvisa.github.io/manulife-site/products/manulife/investments/segregated-funds/)：像买基金时加了一份保险：市场照样涨跌，但到期和身故有保底比例。宏利 GIF Select 分离基金是保险公司发行的投资合同，投资股票债券基金的同时，提供 75% 到 100% 的到期、身故保证，还能直接指定受益人。
+- [宏利独立管理账户 SMA：直接持有证券，让投资限制与税务管理更可定制。](https://veryvisa.github.io/manulife-site/products/manulife/wealth/sma/)：像请专业团队打理一个专属股票账户：股票记在你名下，还能按你的要求挑。独立管理账户（SMA）由宏利投资管理的专业团队按策略管理，你直接持有账户里的每一只股票或债券，可以排除特定行业或个股。
+
+## 产品比较
+
+- [把选择放在一起比较](https://veryvisa.github.io/manulife-site/compare/)：加拿大华人家庭的保险、理财与银行说明书：用类比和例子讲清加拿大的银行、保险与投资产品，目前收录 Manulife 宏利。
+- [活期王与五大行账户组合](https://veryvisa.github.io/manulife-site/compare/bank/advantage-vs-big-five/)：主银行留着，现金还要不要搬？需要分行与综合服务就保留主银行；活期王可作为计息兼支付的第二现金层。比较实际余额、收费与资金到达时间。
+- [宏利信用卡与五大行主力卡](https://veryvisa.github.io/manulife-site/compare/bank/credit-cards/)：哪张卡适合你的真实账单？健康类消费较多才细算宏利；以买菜、加油或外币为主时，其他卡可能更合适。先扣年费，再比净奖励。
+- [Manulife One 与五大行 HELOC](https://veryvisa.github.io/manulife-site/compare/bank/one-vs-heloc/)：现金流抵债，还是保持借贷分开？One 的价值取决于现金实际停留多久；需要清晰税务追踪时，分开的贷款子账户可能更容易管理。
+- [重疾、失能与健康牙科](https://veryvisa.github.io/manulife-site/compare/insurance/ci-di-health/)：生病带来的哪笔钱最缺？一次性康复支出、持续收入中断与医疗账单是不同缺口，可以组合，不能互相替代。
+- [定期、分红与万能寿险](https://veryvisa.github.io/manulife-site/compare/insurance/term-par-ul/)：先补保障缺口，还是做长期传承？家庭收入保障先算足额与期限；有持续缴费能力和长期身故需要时，再比较 Par 与 UL。
+- [ETF、共同基金与分离基金](https://veryvisa.github.io/manulife-site/compare/investments/etf-mutual-seg/)：为管理便利和合同功能付多少？先选适合的资产配置，再比较完整成本。只有需要保险合同功能时，才为那层费用付钱。
+- [GIC、GIA 与分离基金](https://veryvisa.github.io/manulife-site/compare/investments/gic-gia-seg/)：同样为将来留钱，法律结构差在哪？确定期限的现金先比 GIC 与 GIA；需要市场增长与保险合同传承功能，再比较分离基金费用。
+- [退休领钱工具怎么搭配](https://veryvisa.github.io/manulife-site/compare/investments/retirement-income/)：近期生活费与终身收入怎么分工？先留可用现金，再用到期安排和年金匹配支出；RRIF 是账户结构，里面可放不同投资。
+
+## 税务、理赔与传承
+
+- [税务、理赔与传承](https://veryvisa.github.io/manulife-site/knowledge/)：加拿大华人家庭的保险、理财与银行说明书：用类比和例子讲清加拿大的银行、保险与投资产品，目前收录 Manulife 宏利。
+- [人在海外怎样理赔](https://veryvisa.github.io/manulife-site/knowledge/claims/international-claims/)：海外出事，先准备哪些证明？先通知保险公司，按险种取得材料清单，保存原件与可核实的医疗记录。
+- [离开加拿大前的账户清单](https://veryvisa.github.io/manulife-site/knowledge/cross-border/leaving-canada/)：身份改变前，应先通知谁？税务居民身份变化、机构服务资格与新居住国税务要分别确认。
+- [美国身份与加拿大账户](https://veryvisa.github.io/manulife-site/knowledge/cross-border/us-person/)：加拿大免税，美国也认可吗？美国公民、绿卡及税务居民的申报口径可能不同，开户前先核双边结果。
+- [用保险安排慈善捐赠](https://veryvisa.github.io/manulife-site/knowledge/estate/charitable-giving/)：保单现在给，还是身故时给？捐赠发生时间、保单所有权与收据归属改变税务结果。
+- [遗产认证与所得税](https://veryvisa.github.io/manulife-site/knowledge/estate/probate/)：少走遗产认证，是否等于少交所有税？认证程序、费用与死亡所得税是不同账，必须按资产所在省份看。
+- [注册账户身故以后](https://veryvisa.github.io/manulife-site/knowledge/estate/registered-death/)：写了受益人，税就一起解决了吗？收款路径和纳税责任须分别安排，遗产要留出缴税现金。
+- [公司寿险与 CDA](https://veryvisa.github.io/manulife-site/knowledge/tax/corporate-cda/)：公司收到保险金后，怎样到家人手里？公司收款与股东收款是不同步骤，CDA 余额必须计算并办理选择。
+- [借款利息能不能抵税](https://veryvisa.github.io/manulife-site/knowledge/tax/interest-tracing/)：房子作抵押，就能把利息抵税吗？判断看借来的钱当前用在哪里，不只看抵押物或银行产品名。
+
+## 一图看懂
+
+- [一图看懂](https://veryvisa.github.io/manulife-site/visuals/)：加拿大华人家庭的保险、理财与银行说明书：用类比和例子讲清加拿大的银行、保险与投资产品，目前收录 Manulife 宏利。
+- [宏利活期王实用指南](https://veryvisa.github.io/manulife-site/visuals/advantage-guide/)：按顺序看「宏利活期王实用指南」，每张图配读图提示。
+- [自己几家银行之间怎么搬钱？](https://veryvisa.github.io/manulife-site/visuals/advantage-guide/21e4ecf6/)：本人账户之间双向调钱本人账户可关联调款，但 EFT 不是即时到账
+- [活期王靠什么同时计息又能用？](https://veryvisa.github.io/manulife-site/visuals/advantage-guide/36e7b875/)：一笔现金，三种用法现金同时兼顾计息、支付和调度，具体限额分开确认
+- [活期王最适合放哪笔钱？](https://veryvisa.github.io/manulife-site/visuals/advantage-guide/4248da98/)：做第二现金层，不换主银行现金层定位适合常用资金，不能忽略大额付款条件
+- [促销利率会变吗？](https://veryvisa.github.io/manulife-site/visuals/advantage-guide/7587bbef/)：促销利率是浮动的，不是锁定促销利率是浮动的，合资格存款与开户期限均有限制
+- [一个账户能同时储蓄和付款吗？](https://veryvisa.github.io/manulife-site/visuals/advantage-guide/7902453a/)：储蓄和支付合在一个账户Advantage 兼具计息与日常支付，交易费减免有余额条件
+- [六位数付款能在网上发起吗？](https://veryvisa.github.io/manulife-site/visuals/advantage-guide/fa26840e/)：大额付款少跑一次分行电汇与正式支票的线上限额须分别核对
+- [宏利活期王：值得拥有的 8 个理由](https://veryvisa.github.io/manulife-site/visuals/advantage-why/)：按顺序看「宏利活期王：值得拥有的 8 个理由」，每张图配读图提示。
+- [活期王要不要维持余额才免月费？](https://veryvisa.github.io/manulife-site/visuals/advantage-why/36fb9b0b/)：月费是 0，不用为保号存钱活期王不靠存够余额换免月费，账户本身就不收 monthly fee
+- [开一个活期王要花多少钱？](https://veryvisa.github.io/manulife-site/visuals/advantage-why/3feeb0e8/)：开着不用，也不花一分钱月费无月费加无最低存款门槛，开户放着不花钱，是活期王最该先懂的一点
+- [开活期王最少要存多少钱？](https://veryvisa.github.io/manulife-site/visuals/advantage-why/71634bbb/)：不设起存额，存多少都计息不用先攒一大笔才开户，第一块钱存进去就开始计息
+- [活期王能当日常账户花钱吗？](https://veryvisa.github.io/manulife-site/visuals/advantage-why/7acf8728/)：能转能花，是你的现金中转站关联本人其他银行账户免费双向调钱，绑 Apple Pay 与 Google 钱包日常消费
+- [开活期王要去分行吗？](https://veryvisa.github.io/manulife-site/visuals/advantage-why/8c90ef61/)：有 SIN 就能在线开，不用跑分行有 SIN、邮箱和证件就能在线申请，开户、管理、转账都在手机上完成
+- [钱放在宏利银行安全吗？](https://veryvisa.github.io/manulife-site/visuals/advantage-why/8e1167f6/)：合资格存款受 CDIC 保护活期王是银行存款，合资格存款受 CDIC 保护，每类最高 100,000 加元
+- [活期王用一句话怎么说？](https://veryvisa.github.io/manulife-site/visuals/advantage-why/ac898981/)：加拿大的余额宝，钱在银行里活钱放进去就有利息，持有几乎零成本，是加拿大本地的活钱备用账户
+- [已经有主银行，为什么还要多开一个？](https://veryvisa.github.io/manulife-site/visuals/advantage-why/d8e0930e/)：主银行不动，多一个备用出口主银行照用，活期王做第二个现金层：分散单一银行风险，急用时多一条路
+- [730 天从哪天开始算？](https://veryvisa.github.io/manulife-site/visuals/advantage-why/fc6c38a7/)：730 天从开户日算，窗口截至 10-30开户窗口内开户，从开户日起享 730 天促销，期满照常计息
+- [资产抵押额度](https://veryvisa.github.io/manulife-site/visuals/aloc/)：按顺序看「资产抵押额度」，每张图配读图提示。
+- [ALOC+ 适合什么样的人？](https://veryvisa.github.io/manulife-site/visuals/aloc/ad72e0da/)：有资产的人多一个资金出口先评估资产与还款安排，再考虑额外资金出口
+- [不卖投资也能拿到资金吗？](https://veryvisa.github.io/manulife-site/visuals/aloc/d92fb8a3/)：用资产担保，换一条备用额度资产抵押额度让资产留在原处，但仍增加借款风险
+- [宏利银行产品地图](https://veryvisa.github.io/manulife-site/visuals/bank-map/)：按顺序看「宏利银行产品地图」，每张图配读图提示。
+- [ALOC+ 和卖掉资产有什么不同？](https://veryvisa.github.io/manulife-site/visuals/bank-map/3fd5cb85/)：不卖资产，也能留备用资金ALOC Plus 是资产支持的备用信贷，需评估偿还能力
+- [宏利银行的产品各管什么？](https://veryvisa.github.io/manulife-site/visuals/bank-map/51641f52/)：先按用途分，再选银行产品先把钱的用途分清，再选择现金、房贷、额度或定存
+- [活期王除了计息还能做什么？](https://veryvisa.github.io/manulife-site/visuals/bank-map/839c58f6/)：活钱既计息又好用Advantage 同一账户计息和支付，适合作为第二现金层
+- [Manulife One 解决什么问题？](https://veryvisa.github.io/manulife-site/visuals/bank-map/b93ea63d/)：让现金流直接作用到借款One 将收入流入与净借款计息连接起来
+- [保险理赔怎么准备](https://veryvisa.github.io/manulife-site/visuals/claims/)：按顺序看「保险理赔怎么准备」，每张图配读图提示。
+- [健康牙科险到底怎么赔？](https://veryvisa.github.io/manulife-site/visuals/claims/0f3c2186/)：健康牙科是报销型，看比例和上限健康牙科理赔按合资格费用、上限与等待条件执行
+- [不同保险的理赔各看什么条件？](https://veryvisa.github.io/manulife-site/visuals/claims/184c6fb7/)：理赔看条件，投保时就要读懂保险理赔先看触发条件，再准备对应材料
+- [境外急诊时第一步该做什么？](https://veryvisa.github.io/manulife-site/visuals/claims/22729935/)：先打援助电话，再就医留单据境外紧急就医应尽快联系援助中心并保存记录
+- [失能保险按什么标准赔？](https://veryvisa.github.io/manulife-site/visuals/claims/7a465619/)：失能赔的是合同定义下的收入中断失能理赔需证明收入中断及符合合同的失能状态
+- [理赔材料要提前准备哪些？](https://veryvisa.github.io/manulife-site/visuals/claims/8eb6937e/)：先找对触发条件，再备对的文件理赔材料须对应险种、身份、事件证明与申报要求
+- [寿险赔款怎样顺利到家人手里？](https://veryvisa.github.io/manulife-site/visuals/claims/aa08aecd/)：受益人写清，比事后补文件重要寿险理赔要提前核对受益人、文件和付款路径
+- [多家银行之间调钱](https://veryvisa.github.io/manulife-site/visuals/eft/)：按顺序看「多家银行之间调钱」，每张图配读图提示。
+- [怎样把别家银行的钱调进来？](https://veryvisa.github.io/manulife-site/visuals/eft/9ff8f346/)：关联本人账户，双向调钱把本人多家银行账户关联起来，可集中安排资金转入转出
+- [别的银行也能做跨行调度吗？](https://veryvisa.github.io/manulife-site/visuals/eft/b6c81e76/)：比的是怎么转，不是能不能转五大行也有转款能力，应比较公开流程与服务范围
+- [宏利保险产品地图](https://veryvisa.github.io/manulife-site/visuals/insurance/)：按顺序看「宏利保险产品地图」，每张图配读图提示。
+- [我家该先补哪类保险？](https://veryvisa.github.io/manulife-site/visuals/insurance/33f7e907/)：先看风险缺口，再选保障类型按家庭保障、健康、旅行与退休风险寻找保险工具
+- [Vitality 在不同保单上一样吗？](https://veryvisa.github.io/manulife-site/visuals/insurance/8bb36a1f/)：Vitality 是互动层，规则随保单变Vitality 是跨产品健康互动层，不是独立保险
+- [宏利 Manulife One 房贷](https://veryvisa.github.io/manulife-site/visuals/one/)：按顺序看「宏利 Manulife One 房贷」，每张图配读图提示。
+- [还进去的钱还能再用吗？](https://veryvisa.github.io/manulife-site/visuals/one/1dfbc367/)：额度可循环，关键在借款纪律One 的可借额度不等于自己的现金，使用后仍有借款责任
+- [Manulife One 和普通房贷差在哪？](https://veryvisa.github.io/manulife-site/visuals/one/58719384/)：现金流与房贷放进同一个账户Manulife One 将房贷、收入、现金与日常开支放在同一结构中
+- [一部分房贷能单独锁定利率吗？](https://veryvisa.github.io/manulife-site/visuals/one/60bdcf6b/)：主账户灵活，子账户可锁定One 可用子账户区分部分债务的利率与还款安排
+- [我适不适合用 Manulife One？](https://veryvisa.github.io/manulife-site/visuals/one/78d3e52b/)：会管现金流的人才用得好One 更适合有现金流且愿意主动管理债务的人
+- [工资进账为什么能少算利息？](https://veryvisa.github.io/manulife-site/visuals/one/eaa5454d/)：余额越低、停得越久，利息越少收入存入后抵减净借款余额，再按较低余额计息
+- [开户步骤](https://veryvisa.github.io/manulife-site/visuals/opening/)：按顺序看「开户步骤」，每张图配读图提示。
+- [开户后第一步在手机上做什么？](https://veryvisa.github.io/manulife-site/visuals/opening/2a9c34e6/)：先建好 Manulife ID 再登录按 App 提示建立 Manulife ID，完成设置后再登录账户
+- [宏利活期王长图](https://veryvisa.github.io/manulife-site/visuals/poster/)：按顺序看「宏利活期王长图」，每张图配读图提示。
+- [活期王为什么几乎人人值得开？](https://veryvisa.github.io/manulife-site/visuals/poster/27bd00e4/)：持有几乎零成本，先开着随时能用低成本、有 SIN 就能在线开，活钱计息又随时能用，值得人手一个
+- [活期王和余额宝像在哪里？](https://veryvisa.github.io/manulife-site/visuals/poster/6abadfac/)：零持有成本的活钱账户，促销只是加分一张图看全活期王 8 个卖点：零持有成本、活钱计息、能花能转、多一个备用出口
+- [熟悉余额宝的人怎么理解活期王？](https://veryvisa.github.io/manulife-site/visuals/poster/7d74e25c/)：像余额宝：有利息、随时用、零成本用余额宝、零钱通来类比：钱放着有利息、随时能用，还多一个本地备用中枢
+- [这次活期王促销有哪些条件？](https://veryvisa.github.io/manulife-site/visuals/poster/c78637b6/)：看清截止、上限和浮动活期王促销信息汇总，申请前核对全部条件
+- [宏利 Vitality 十周年](https://veryvisa.github.io/manulife-site/visuals/vitality-anniversary/)：按顺序看「宏利 Vitality 十周年」，每张图配读图提示。
+- [Vitality Go 和 Plus 差在哪？](https://veryvisa.github.io/manulife-site/visuals/vitality-anniversary/626e1d81/)：Go 与 Plus 权益不同Go 与 Plus 权益不同，先核自己保单版本
+- [十周年抽奖怎么参加？](https://veryvisa.github.io/manulife-site/visuals/vitality-anniversary/73e064d2/)：先报名，再每周达标已注册合资格会员按时报名并完成每周目标，抽奖不是固定奖励
+- [健康牙科怎么和 Vitality 联动？](https://veryvisa.github.io/manulife-site/visuals/vitality-anniversary/88cc3c43/)：福利结束那天最需要衔接健康牙科的 Vitality 规则独立，不套用寿险规则
+- [分红寿险加 Vitality 有什么不同？](https://veryvisa.github.io/manulife-site/visuals/vitality-anniversary/be9b7d70/)：永久险加 Vitality 要看长期Par 的 Vitality 机制关联分红机会，而非定期寿险的保费折扣
+- [哪些保单可以加 Vitality？](https://veryvisa.github.io/manulife-site/visuals/vitality-anniversary/d673741e/)：保障在先，Vitality 叠加在上Vitality 将合资格保险与健康行为和奖励连接起来
+- [财富与账户](https://veryvisa.github.io/manulife-site/visuals/wealth/)：按顺序看「财富与账户」，每张图配读图提示。
+- [同一笔钱放哪个账户更合适？](https://veryvisa.github.io/manulife-site/visuals/wealth/18bc6719/)：账户用途比产品名字更重要先选择税务账户，再选择其中持有的投资
+- [股票、债券、基金各适合什么？](https://veryvisa.github.io/manulife-site/visuals/wealth/2846203d/)：风险、期限和用途要对得上股票、债券、基金和存款承担不同的投资任务
+- [投资规划为什么要看保障？](https://veryvisa.github.io/manulife-site/visuals/wealth/a426eea0/)：投资之外，也要留家庭防线投资之外还要检查家庭保障与身故资金缺口
+- [自己选产品和交给团队管差在哪？](https://veryvisa.github.io/manulife-site/visuals/wealth/c19505bc/)：管理方式本身会影响结果费用制、管理账户和统一管理方案适合不同服务需求
+- [我的目标该配哪种账户？](https://veryvisa.github.io/manulife-site/visuals/wealth/ce24e06d/)：先问钱要解决什么问题先问资金目标，再匹配账户与管理方式
+- [资产复杂时要怎么统筹？](https://veryvisa.github.io/manulife-site/visuals/wealth/d4fd33fd/)：资产复杂时，要整体协调复杂家庭资产需要投资、税务与传承协调
+- [财富规划要从哪一步开始？](https://veryvisa.github.io/manulife-site/visuals/wealth/ee3c6b92/)：先定目标，再配账户和产品把账户、投资产品、管理方式和家庭目标放在同一张图上
+
+## 核验记录与工具
+
+- [产品速查表](https://veryvisa.github.io/manulife-site/finder/)：加拿大华人家庭的保险、理财与银行说明书：用类比和例子讲清加拿大的银行、保险与投资产品，目前收录 Manulife 宏利。
+- [搜索全站](https://veryvisa.github.io/manulife-site/search/)：加拿大华人家庭的保险、理财与银行说明书：用类比和例子讲清加拿大的银行、保险与投资产品，目前收录 Manulife 宏利。
+- [当前重点与数字核验记录](https://veryvisa.github.io/manulife-site/updates/)：加拿大华人家庭的保险、理财与银行说明书：用类比和例子讲清加拿大的银行、保险与投资产品，目前收录 Manulife 宏利。
