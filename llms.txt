@@ -2,7 +2,7 @@
 
 > 加拿大华人家庭的保险、理财与银行说明书。由持牌保险顾问张毛妈整理，用类比和例子讲清加拿大的银行、保险与投资产品；目前收录 Manulife 宏利，其他公司陆续加入。数字附官方来源与核验日期；内容为一般信息，不构成个人建议。
 
-构建日期：2026-09-15
+构建日期：2026-09-16
 
 ## 首页与入门
 
@@ -143,7 +143,7 @@
 - [一部分房贷能单独锁定利率吗？](https://veryvisa.github.io/manulife-site/visuals/one/60bdcf6b/)：主账户灵活，子账户可锁定One 可用子账户区分部分债务的利率与还款安排
 - [我适不适合用 Manulife One？](https://veryvisa.github.io/manulife-site/visuals/one/78d3e52b/)：会管现金流的人才用得好One 更适合有现金流且愿意主动管理债务的人
 - [工资进账为什么能少算利息？](https://veryvisa.github.io/manulife-site/visuals/one/eaa5454d/)：余额越低、停得越久，利息越少收入存入后抵减净借款余额，再按较低余额计息
-- [开户步骤](https://veryvisa.github.io/manulife-site/visuals/opening/)：按顺序看「开户步骤」，每张图配读图提示。
+- [宏利活期王在线开户指南：自己在手机上开，一步一图](https://veryvisa.github.io/manulife-site/visuals/opening/)：Manulife Bank Advantage Account 自助在线开户 9 步，每步配真实界面截图：要准备什么、SIN 怎么给、Access Number 与促销利率显示等常见卡点怎么办，附张毛妈顾问开户链接。
 - [开户后第一步在手机上做什么？](https://veryvisa.github.io/manulife-site/visuals/opening/2a9c34e6/)：先建好 Manulife ID 再登录按 App 提示建立 Manulife ID，完成设置后再登录账户
 - [宏利活期王长图](https://veryvisa.github.io/manulife-site/visuals/poster/)：按顺序看「宏利活期王长图」，每张图配读图提示。
 - [活期王为什么几乎人人值得开？](https://veryvisa.github.io/manulife-site/visuals/poster/27bd00e4/)：持有几乎零成本，先开着随时能用低成本、有 SIN 就能在线开，活钱计息又随时能用，值得人手一个
