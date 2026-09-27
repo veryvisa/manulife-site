@@ -6,7 +6,7 @@
 
 ## 首页与入门
 
-- [张毛妈家庭财务说明书｜用类比看懂加拿大的保险、理财与银行](https://veryvisa.github.io/manulife-site/)：张毛妈家庭财务说明书：活期王像余额宝、GIC 像定期存款、重疾险像生病时的带薪病假。先用类比看懂，再按家庭情况挑产品。目前收录 Manulife 宏利。
+- [张毛妈家庭财务说明书｜按家庭需要看懂银行、保险与投资](https://veryvisa.github.io/manulife-site/)：张毛妈家庭财务说明书：先分清钱的用途，再按家庭情况看方案、代价和比较，带着问题询价。
 - [关于张毛妈](https://veryvisa.github.io/manulife-site/about/)：加拿大华人家庭的保险、理财与银行说明书：用类比和例子讲清加拿大的银行、保险与投资产品，目前收录 Manulife 宏利。
 - [新手入门：10 分钟看懂加拿大的理财与保险](https://veryvisa.github.io/manulife-site/start/)：把钱分成活钱、定期钱、保障钱、长钱四种；认识 TFSA、RRSP 等账户和 CDIC、Assuris 两张保护网；常见产品一句话看懂。
 
