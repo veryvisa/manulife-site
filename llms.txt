@@ -2,7 +2,7 @@
 
 > 加拿大华人家庭的保险、理财与银行说明书。由持牌保险顾问张毛妈整理，用类比和例子讲清加拿大的银行、保险与投资产品；目前收录 Manulife 宏利，其他公司陆续加入。数字附官方来源与核验日期；内容为一般信息，不构成个人建议。
 
-构建日期：2026-09-29
+构建日期：2026-10-27
 
 ## 首页与入门
 
@@ -159,7 +159,6 @@
 - [一笔房贷能同时安排不同期限吗？](https://veryvisa.github.io/manulife-site/visuals/select/a4439d5f/)：最多五段，分散利率和续约风险每段可分别选择金额、利率、期限与付款频率
 - [宏利 Vitality 十周年](https://veryvisa.github.io/manulife-site/visuals/vitality-anniversary/)：按顺序看「宏利 Vitality 十周年」，每张图配读图提示。
 - [Vitality Go 和 Plus 差在哪？](https://veryvisa.github.io/manulife-site/visuals/vitality-anniversary/626e1d81/)：Go 与 Plus 权益不同Go 与 Plus 权益不同，先核自己保单版本
-- [十周年抽奖怎么参加？](https://veryvisa.github.io/manulife-site/visuals/vitality-anniversary/73e064d2/)：先报名，再每周达标已注册合资格会员按时报名并完成每周目标，抽奖不是固定奖励
 - [健康牙科怎么和 Vitality 联动？](https://veryvisa.github.io/manulife-site/visuals/vitality-anniversary/88cc3c43/)：福利结束那天最需要衔接健康牙科的 Vitality 规则独立，不套用寿险规则
 - [分红寿险加 Vitality 有什么不同？](https://veryvisa.github.io/manulife-site/visuals/vitality-anniversary/be9b7d70/)：永久险加 Vitality 要看长期Par 的 Vitality 机制关联分红机会，而非定期寿险的保费折扣
 - [哪些保单可以加 Vitality？](https://veryvisa.github.io/manulife-site/visuals/vitality-anniversary/d673741e/)：保障在先，Vitality 叠加在上Vitality 将合资格保险与健康行为和奖励连接起来
