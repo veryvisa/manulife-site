@@ -2,7 +2,7 @@
 
 > 加拿大华人家庭的保险、理财与银行说明书。由持牌保险顾问张毛妈整理，用类比和例子讲清加拿大的银行、保险与投资产品；目前收录 Manulife 宏利，其他公司陆续加入。数字附官方来源与核验日期；内容为一般信息，不构成个人建议。
 
-构建日期：2026-10-27
+构建日期：2026-10-30
 
 ## 首页与入门
 
@@ -69,7 +69,7 @@
 - [宏利 MPIP 投资池：把家庭投资按目标组合，再核对合并计费。](https://veryvisa.github.io/manulife-site/products/manulife/investments/mpip-pools/)：像私人银行的家庭套餐：一家人的投资合在一起算，钱越多费率越低。宏利私人投资池（MPIP）是面向资产较多家庭的投资组合，共 14 个投资池，家庭账户合并计算资产，达到门槛可降低管理费。
 - [宏利 MPIP 分离投资池：投资池配上保险合同功能，先衡量是否值得。](https://veryvisa.github.io/manulife-site/products/manulife/investments/mpip-segregated/)：像带安全带的私人投资池：投资之外，多了到期和身故保证。MPIP 分离投资池是宏利私人投资池的保险合同版本，保留家庭合并计费，另有 75/75 或 75/100 的到期与身故保证，可以指定受益人。
 - [宏利共同基金：把目标、期限与波动承受力交给合适的基金组合。](https://veryvisa.github.io/manulife-site/products/manulife/investments/mutual-funds/)：像把钱交给专业厨师做菜：你选口味，基金经理负责买什么、卖什么。宏利共同基金由基金经理替你挑选和管理股票、债券等资产，有不同风险等级与费用系列，通常通过顾问购买。
-- [宏利 GIF Select 分离基金：为需要受益人安排的人比较保险合同功能。](https://veryvisa.github.io/manulife-site/products/manulife/investments/segregated-funds/)：像买基金时加了一份保险：市场照样涨跌，但到期和身故有保底比例。宏利 GIF Select 分离基金是保险公司发行的投资合同，投资股票债券基金的同时，提供 75% 到 100% 的到期、身故保证，还能直接指定受益人。
+- [宏利 GIF Select 分离基金：为需要受益人安排的人比较保险合同功能。](https://veryvisa.github.io/manulife-site/products/manulife/investments/segregated-funds/)：像买基金时加了一份保险：市场照样涨跌，但到期和身故有保底比例。宏利 GIF Select 分离基金是保险公司发行的投资合同，投资股票债券基金的同时，到期保证存入额的 75%，身故保证可选 75% 或 100%，还能直接指定受益人。
 - [宏利独立管理账户 SMA：直接持有证券，让投资限制与税务管理更可定制。](https://veryvisa.github.io/manulife-site/products/manulife/wealth/sma/)：像请专业团队打理一个专属股票账户：股票记在你名下，还能按你的要求挑。独立管理账户（SMA）由宏利投资管理的专业团队按策略管理，你直接持有账户里的每一只股票或债券，可以排除特定行业或个股。
 
 ## 产品比较
