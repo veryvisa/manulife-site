@@ -2,7 +2,7 @@
 
 > 加拿大华人家庭的保险、理财与银行说明书。由持牌保险顾问张毛妈整理，用类比和例子讲清加拿大的银行、保险与投资产品；目前收录 Manulife 宏利，其他公司陆续加入。数字附官方来源与核验日期；内容为一般信息，不构成个人建议。
 
-构建日期：2026-10-30
+构建日期：2026-10-31
 
 ## 首页与入门
 
@@ -100,12 +100,7 @@
 
 - [一图看懂](https://veryvisa.github.io/manulife-site/visuals/)：加拿大华人家庭的保险、理财与银行说明书：用类比和例子讲清加拿大的银行、保险与投资产品，目前收录 Manulife 宏利。
 - [宏利活期王实用指南](https://veryvisa.github.io/manulife-site/visuals/advantage-guide/)：按顺序看「宏利活期王实用指南」，每张图配读图提示。
-- [自己几家银行之间怎么搬钱？](https://veryvisa.github.io/manulife-site/visuals/advantage-guide/21e4ecf6/)：本人账户之间双向调钱本人账户可关联调款，但 EFT 不是即时到账
-- [活期王靠什么同时计息又能用？](https://veryvisa.github.io/manulife-site/visuals/advantage-guide/36e7b875/)：一笔现金，三种用法现金同时兼顾计息、支付和调度，具体限额分开确认
-- [活期王最适合放哪笔钱？](https://veryvisa.github.io/manulife-site/visuals/advantage-guide/4248da98/)：做第二现金层，不换主银行现金层定位适合常用资金，不能忽略大额付款条件
-- [促销利率会变吗？](https://veryvisa.github.io/manulife-site/visuals/advantage-guide/7587bbef/)：促销利率是浮动的，不是锁定促销利率是浮动的，合资格存款与开户期限均有限制
 - [一个账户能同时储蓄和付款吗？](https://veryvisa.github.io/manulife-site/visuals/advantage-guide/7902453a/)：储蓄和支付合在一个账户Advantage 兼具计息与日常支付，交易费减免有余额条件
-- [六位数付款能在网上发起吗？](https://veryvisa.github.io/manulife-site/visuals/advantage-guide/fa26840e/)：大额付款少跑一次分行电汇与正式支票的线上限额须分别核对
 - [宏利活期王：值得拥有的 8 个理由](https://veryvisa.github.io/manulife-site/visuals/advantage-why/)：按顺序看「宏利活期王：值得拥有的 8 个理由」，每张图配读图提示。
 - [活期王要不要维持余额才免月费？](https://veryvisa.github.io/manulife-site/visuals/advantage-why/36fb9b0b/)：月费是 0，不用为保号存钱活期王不靠存够余额换免月费，账户本身就不收 monthly fee
 - [开一个活期王要花多少钱？](https://veryvisa.github.io/manulife-site/visuals/advantage-why/3feeb0e8/)：开着不用，也不花一分钱月费无月费加无最低存款门槛，开户放着不花钱，是活期王最该先懂的一点
@@ -113,9 +108,7 @@
 - [活期王能当日常账户花钱吗？](https://veryvisa.github.io/manulife-site/visuals/advantage-why/7acf8728/)：能转能花，是你的现金中转站关联本人其他银行账户免费双向调钱，绑 Apple Pay 与 Google 钱包日常消费
 - [开活期王要去分行吗？](https://veryvisa.github.io/manulife-site/visuals/advantage-why/8c90ef61/)：有 SIN 就能在线开，不用跑分行有 SIN、邮箱和证件就能在线申请，开户、管理、转账都在手机上完成
 - [钱放在宏利银行安全吗？](https://veryvisa.github.io/manulife-site/visuals/advantage-why/8e1167f6/)：合资格存款受 CDIC 保护活期王是银行存款，合资格存款受 CDIC 保护，每类最高 100,000 加元
-- [活期王用一句话怎么说？](https://veryvisa.github.io/manulife-site/visuals/advantage-why/ac898981/)：加拿大的余额宝，钱在银行里活钱放进去就有利息，持有几乎零成本，是加拿大本地的活钱备用账户
 - [已经有主银行，为什么还要多开一个？](https://veryvisa.github.io/manulife-site/visuals/advantage-why/d8e0930e/)：主银行不动，多一个备用出口主银行照用，活期王做第二个现金层：分散单一银行风险，急用时多一条路
-- [730 天从哪天开始算？](https://veryvisa.github.io/manulife-site/visuals/advantage-why/fc6c38a7/)：730 天从开户日算，窗口截至 10-30开户窗口内开户，从开户日起享 730 天促销，期满照常计息
 - [资产抵押额度](https://veryvisa.github.io/manulife-site/visuals/aloc/)：按顺序看「资产抵押额度」，每张图配读图提示。
 - [ALOC+ 适合什么样的人？](https://veryvisa.github.io/manulife-site/visuals/aloc/ad72e0da/)：有资产的人多一个资金出口先评估资产与还款安排，再考虑额外资金出口
 - [不卖投资也能拿到资金吗？](https://veryvisa.github.io/manulife-site/visuals/aloc/d92fb8a3/)：用资产担保，换一条备用额度资产抵押额度让资产留在原处，但仍增加借款风险
@@ -150,11 +143,6 @@
 - [哪类人更可能用好 Manulife One？](https://veryvisa.github.io/manulife-site/visuals/one/efb6e393/)：现金流和自律比口号更重要收入不规则、有活钱且愿意管理债务的人更能用出价值
 - [宏利活期王在线开户指南：自己在手机上开，一步一图](https://veryvisa.github.io/manulife-site/visuals/opening/)：Manulife Bank Advantage Account 自助在线开户 9 步，每步配真实界面截图：要准备什么、SIN 怎么给、Access Number 与促销利率显示等常见卡点怎么办，附张毛妈顾问开户链接。
 - [开户后第一步在手机上做什么？](https://veryvisa.github.io/manulife-site/visuals/opening/2a9c34e6/)：先建好 Manulife ID 再登录按 App 提示建立 Manulife ID，完成设置后再登录账户
-- [宏利活期王长图](https://veryvisa.github.io/manulife-site/visuals/poster/)：按顺序看「宏利活期王长图」，每张图配读图提示。
-- [活期王为什么几乎人人值得开？](https://veryvisa.github.io/manulife-site/visuals/poster/27bd00e4/)：持有几乎零成本，先开着随时能用低成本、有 SIN 就能在线开，活钱计息又随时能用，值得人手一个
-- [活期王和余额宝像在哪里？](https://veryvisa.github.io/manulife-site/visuals/poster/6abadfac/)：零持有成本的活钱账户，促销只是加分一张图看全活期王 8 个卖点：零持有成本、活钱计息、能花能转、多一个备用出口
-- [熟悉余额宝的人怎么理解活期王？](https://veryvisa.github.io/manulife-site/visuals/poster/7d74e25c/)：像余额宝：有利息、随时用、零成本用余额宝、零钱通来类比：钱放着有利息、随时能用，还多一个本地备用中枢
-- [这次活期王促销有哪些条件？](https://veryvisa.github.io/manulife-site/visuals/poster/c78637b6/)：看清截止、上限和浮动活期王促销信息汇总，申请前核对全部条件
 - [宏利 Bank Select 房贷](https://veryvisa.github.io/manulife-site/visuals/select/)：按顺序看「宏利 Bank Select 房贷」，每张图配读图提示。
 - [一笔房贷能同时安排不同期限吗？](https://veryvisa.github.io/manulife-site/visuals/select/a4439d5f/)：最多五段，分散利率和续约风险每段可分别选择金额、利率、期限与付款频率
 - [宏利 Vitality 十周年](https://veryvisa.github.io/manulife-site/visuals/vitality-anniversary/)：按顺序看「宏利 Vitality 十周年」，每张图配读图提示。
